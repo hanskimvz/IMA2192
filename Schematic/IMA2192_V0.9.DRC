@@ -1,0 +1,22 @@
+Date and Time : 08/10/23 15:56:13
+
+--------------------------------------------------
+Checking Schematic: K510-CRB-V1_2-B_3
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_CSI_D2_P 
+                    K510-CRB-V1_2-B_3, 01-CONNECTOR  (114.30, 142.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_CSI_D3_N 
+                    K510-CRB-V1_2-B_3, 01-CONNECTOR  (101.60, 154.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_CSI_D2_N 
+                    K510-CRB-V1_2-B_3, 01-CONNECTOR  (114.30, 139.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_CSI_D3_P 
+                    K510-CRB-V1_2-B_3, 01-CONNECTOR  (101.60, 157.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_CSI_CLK1_DN 
+                    K510-CRB-V1_2-B_3, 01-CONNECTOR  (114.30, 147.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_CSI_CLK1_DP 
+                    K510-CRB-V1_2-B_3, 01-CONNECTOR  (114.30, 149.86) 
+
+Checking For Unconnected Bus Nets

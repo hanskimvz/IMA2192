@@ -1,0 +1,66 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+TP4        TP_0.8_SMD          -6.2497mm     -5.8497mm     -6.2497mm     -5.8497mm     -6.2497mm     -5.8497mm  B         90.00 TPS            
+BC8        CS-1005                14.9mm        4.35mm        14.9mm        4.35mm        14.9mm         4.8mm  B        270.00 1uF            
+J2         05003HR-H34E             -4mm      -9.672mm          -4mm         -11mm      4.2503mm     -8.3502mm  B          0.00 05003HR-H34E   
+U6         IMX219-PLCC32             0mm           0mm           0mm           0mm      -3.425mm       -0.35mm  T         90.00 IMX219PLCC32   
+U5         SOT-23-5P             12.05mm      -10.15mm       12.05mm      -10.15mm          13mm       -11.5mm  B        180.00 SGM2036-1.2YN5G/TR
+U3         SOT-23-5P              6.55mm        8.45mm        6.55mm        8.45mm         7.9mm         9.4mm  B        270.00 SGM2036-2.8YN5G/TR
+U2         SOT23-6                -3.8mm          13mm        -3.8mm          13mm        -5.1mm       12.05mm  B        270.00 TPS61165DBVR   
+TP6        TP_0.8_SMD          -9.2497mm     -5.8497mm     -9.2497mm     -5.8497mm     -9.2497mm     -5.8497mm  B         90.00 TPS            
+TP5        TP_0.8_SMD             -8.5mm        -4.6mm        -8.5mm        -4.6mm        -8.5mm        -4.6mm  B         90.00 TPS            
+R14        RS-1005                  -4mm         7.9mm          -4mm         7.9mm          -4mm        7.45mm  B         90.00 10K            
+D1         PowerDI123          -0.7125mm          16mm        -0.4mm          16mm       -2.25mm          16mm  B        180.00 DFLS140        
+U4         SOT-23-5P             13.95mm         0.7mm       13.95mm         0.7mm        14.9mm       -0.65mm  B        180.00 SGM2036-1.8YN5G/TR
+TP2        TP_0.8_SMD          -7.7763mm     -5.8497mm     -7.7763mm     -5.8497mm     -7.7763mm     -5.8497mm  B         90.00 TPS            
+TP1        TP_0.8_SMD          -7.0265mm        -4.6mm     -7.0265mm        -4.6mm     -7.0265mm        -4.6mm  B         90.00 TPS            
+R12        RS-1005                -1.1mm         0.1mm        -1.1mm         0.1mm        -1.1mm        0.55mm  B        270.00 10K//NI        
+R11        RS-1005                -2.3mm         0.1mm        -2.3mm         0.1mm        -2.3mm        0.55mm  B        270.00 10K//NI        
+R10        RS-1005             -5.8895mm         1.6mm     -5.8895mm         1.6mm     -5.8895mm        2.05mm  B        270.00 22             
+R9         RS-1005                 1.4mm         0.1mm         1.4mm         0.1mm         1.4mm       -0.35mm  B         90.00 4.7K           
+R8         RS-1005                 5.6mm          -6mm         5.6mm          -6mm        5.15mm          -6mm  B        360.00 0              
+R7         RS-1005                 2.6mm         0.1mm         2.6mm         0.1mm         2.6mm       -0.35mm  B         90.00 4.7K           
+R6         RS-1005                 5.6mm        -4.8mm         5.6mm        -4.8mm        5.15mm        -4.8mm  B        360.00 0              
+R5         RS-1608               1.062mm        11.4mm       1.062mm        11.4mm      0.2619mm        11.4mm  B        360.00 1, 1%          
+R4         RS-1005                -8.2mm          13mm        -8.2mm          13mm       -7.75mm          13mm  B        180.00 22             
+R3         RS-1005                -8.2mm        11.7mm        -8.2mm        11.7mm       -8.65mm        11.7mm  B        360.00 10K            
+R2         RS-1005               -13.5mm        -3.3mm       -13.5mm        -3.3mm       -13.5mm       -2.85mm  B        270.00 80.6K          
+R1         RS-1005               -13.5mm        -5.6mm       -13.5mm        -5.6mm       -13.5mm       -5.15mm  B        270.00 45.3K          
+OSC1       SX-32                  -4.9mm         4.7mm        -4.9mm         4.7mm       -4.15mm         5.8mm  B         90.00 24Mhz-SX32-1.8V
+MH4        VAEC-2.2               16.5mm        16.5mm        27.3mm        16.3mm        16.5mm        16.5mm  T          0.00 4.04pi         
+MH3        VAEC-2.2               16.5mm       -16.5mm        27.3mm       -16.3mm        16.5mm       -16.5mm  T          0.00 4.04pi         
+MH2        VAEC-2.2              -16.5mm       -16.5mm       -16.5mm       -16.5mm       -16.5mm       -16.5mm  T          0.00 4.04pi         
+MH1        VAEC-2.2              -16.5mm        16.5mm       -27.3mm        16.3mm       -16.5mm        16.5mm  T          0.00 4.04pi         
+J3         LENS_HOLDER_C_SQUARE          -0mm           0mm          -0mm           0mm          10mm           0mm  T        180.00 Lens Holder    
+J1         12505WR-2P          -15.325mm         8.1mm       -16.6mm         8.1mm     -13.875mm       7.475mm  T        270.00 12505WR-2P     
+FB3        LS-1608               -17.6mm         3.3mm       -17.6mm         3.3mm       -17.6mm       2.538mm  B         90.00 60             
+FB2        LS-1608               -16.1mm         3.3mm       -16.1mm         3.3mm       -16.1mm       2.538mm  B         90.00 60             
+FB1        LS-1608               -14.6mm         3.3mm       -14.6mm         3.3mm       -14.6mm       2.538mm  B         90.00 60             
+C10        CS-1005                -2.7mm         7.9mm        -2.7mm         7.9mm        -2.7mm        7.45mm  B         90.00 0.1uF          
+C9         CS-1005                -5.4mm       -2.45mm        -5.4mm       -2.45mm       -5.85mm       -2.45mm  B        360.00 1uF            
+C8         CS-1005                -5.4mm       -1.05mm        -5.4mm       -1.05mm       -5.85mm       -1.05mm  B        360.00 1uF            
+C7         CS-1005               -1.05mm       3.425mm       -1.05mm       3.425mm       -1.05mm       2.975mm  B         90.00 1uF            
+C6         CS-1005                 8.9mm        -8.8mm         8.9mm        -8.8mm        8.45mm        -8.8mm  B        360.00 10nF           
+C4         CS-1005                   3mm         7.5mm           3mm         7.5mm        2.55mm         7.5mm  B        360.00 10nF           
+C3         CS-1005                 0.3mm          13mm         0.3mm          13mm        0.75mm          13mm  B        180.00 220nF          
+C2         C3216                     6mm          16mm           6mm          16mm         4.4mm          16mm  B        360.00 4.7uF-25V-3216 
+C1         CS-1005                -6.1mm        10.3mm        -6.1mm        10.3mm        -6.1mm       10.75mm  B        270.00 1uF            
+BC7        CS-1005                -6.3mm         8.4mm        -6.3mm         8.4mm       -6.75mm         8.4mm  B        180.00 1uF            
+BC6        CS-1005              14.892mm        -3.1mm      14.892mm        -3.1mm      14.892mm       -3.55mm  B         90.00 0.1uF          
+BC5        CS-1005                  13mm        -6.6mm          13mm        -6.6mm          13mm       -6.15mm  B        270.00 1uF            
+BC4        CS-1005                  15mm       -11.5mm          15mm       -11.5mm       15.45mm       -11.5mm  B        180.00 0.1uF          
+BC3        CS-1005                10.2mm         9.4mm        10.2mm         9.4mm       10.65mm         9.4mm  B        180.00 0.1uF          
+BC2        CS-1005                   3mm         9.4mm           3mm         9.4mm        2.55mm         9.4mm  B        360.00 1uF            
+BC1        CTS-3216                 -1mm         8.1mm          -1mm         8.1mm          -1mm        6.83mm  B         90.00 22uF           
+L1         LS-2012                -6.2mm          16mm        -6.2mm          16mm     -5.1205mm          16mm  B        180.00 10uH           
+R15        RS-1005                 0.8mm        5.25mm         0.8mm        5.25mm        1.25mm        5.25mm  B        180.00 10K            
+C5         CS-1005                  13mm        4.35mm          13mm        4.35mm          13mm         4.8mm  B        270.00 10nF           
+FB4        LS-1608                 3.6mm         5.3mm         3.6mm         5.3mm       4.362mm         5.3mm  B        180.00 220R//NI       
+LD1        LED-3030              -10.6mm           6mm       -10.6mm           6mm       -11.9mm           6mm  T          0.00 LED3030        
+LD2        LED-3030              -10.6mm          -6mm       -10.6mm          -6mm       -11.9mm          -6mm  T        360.00 LED3030        
+LD3        LED-3030               10.6mm          -6mm        10.6mm          -6mm        11.9mm          -6mm  T        180.00 LED3030        
+LD4        LED-3030               10.6mm           6mm        10.6mm           6mm        11.9mm           6mm  T        180.00 LED3030        
+R13        RS-1005                 0.1mm         0.1mm         0.1mm         0.1mm         0.1mm        0.55mm  B        270.00 10K//NI        
+U1         MSOP10-3.0-0.5/PAD       -16.1mm        -2.5mm       -16.1mm        -2.5mm       -17.1mm        -0.2mm  B        180.00 DRV8832DGQ     
+TP3        TP_0.8_SMD             -5.5mm        -4.6mm        -5.5mm        -4.6mm        -5.5mm        -4.6mm  B         90.00 TPS            
+

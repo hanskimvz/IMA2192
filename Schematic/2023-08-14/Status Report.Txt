@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [IMA2192_0.9.PcbDoc]
+   Generated File[IMA2192_0.9-RoundHoles.TXT]
+   Generated File[IMA2192_0.9-SlotHoles.TXT]
+   Generated File[IMA2192_0.9.LDP]
+   Generated File[IMA2192_0.9.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÈÄ 12:08:48 On 2023-08-14

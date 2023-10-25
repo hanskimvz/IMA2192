@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: IMA2192_0.9.PcbDoc   2023-08-14  ¿ÀÈÄ 12:08:47
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : IMA2192_0.9-RoundHoles.TXT
+ASCII SlotHoles File : IMA2192_0.9-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.25mm (9.842mil)        Round          93               239.82 mm (9.44 Inch)
+T2        2.2mm (86.614mil)        Round          2                20.00 mm (0.79 Inch)
+T3        2.2mm (86.614mil)        Slot           4                7259.80 mm (285.82 Inch)
+---------------------------------------------------------------------------
+Totals                                            99               7519.62 mm (296.05 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

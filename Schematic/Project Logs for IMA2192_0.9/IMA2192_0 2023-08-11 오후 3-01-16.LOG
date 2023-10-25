@@ -1,0 +1,5 @@
+Added Component: Designator=BC8(CS-1005)
+Added Component: Designator=TP4(TP_0.8_SMD)
+Added Pin To Net: NetName=GND Pin=BC8-1
+Added Pin To Net: NetName=1V8 Pin=BC8-2
+Added Pin To Net: NetName=MIPI_CSI_D2_P Pin=TP4-1

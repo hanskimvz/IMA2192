@@ -1,0 +1,369 @@
+*************************************************************
+FileName = IMA2192_0.9.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top
+      File : IMA2192_0.9.GTL
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : INT1
+      File : IMA2192_0.9.G1
+
+    Adding Layer      : INT1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D17
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : IMA2192_0.9.G2
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D22
+    D23
+    D24
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom
+      File : IMA2192_0.9.GBL
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D22
+    D23
+    D24
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : IMA2192_0.9.GPB
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : IMA2192_0.9.GPT
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Silkscreen Top
+      File : IMA2192_0.9.GTO
+
+    Adding Layer      : Silkscreen Top
+
+
+Used DCodes :
+    D16
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Paste Mask Top
+      File : IMA2192_0.9.GTP
+
+    Adding Layer      : Paste Mask Top
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Solder Mask Top
+      File : IMA2192_0.9.GTS
+
+    Adding Layer      : Solder Mask Top
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Solder Mask Bottom
+      File : IMA2192_0.9.GBS
+
+    Adding Layer      : Solder Mask Bottom
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+*************************************************************
+
+*************************************************************
+Generating : Paste Mask Bottom
+      File : IMA2192_0.9.GBP
+
+    Adding Layer      : Paste Mask Bottom
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Silkscreen Bottom
+      File : IMA2192_0.9.GBO
+
+    Adding Layer      : Silkscreen Bottom
+
+
+Used DCodes :
+    D49
+    D50
+    D83
+    D84
+*************************************************************
+
+*************************************************************
+Generating : Assembly Drawing Top
+      File : IMA2192_0.9.GM1
+
+    Adding Layer      : Assembly Drawing Top
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Assembly Drawing Bottom
+      File : IMA2192_0.9.GM2
+
+    Adding Layer      : Assembly Drawing Bottom
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : IMA2192_0.9.GM3
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : IMA2192_0.9.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : IMA2192_0.9.GD1
+
+    Adding Drill Pair : Top-Bottom
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D47
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : IMA2192_0.9.GG1
+
+    Adding Drill Pair : Top-Bottom
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D47
+*************************************************************
+
